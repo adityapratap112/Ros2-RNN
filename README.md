@@ -1,5 +1,3 @@
-Got it! Here's your updated `README.md` using `***` (bold-italic markdown emphasis) to clearly highlight **terminal prompts**, **filenames**, and **important steps**, ready for GitHub:
-
 ---
 
 ```markdown
