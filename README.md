@@ -1,9 +1,12 @@
+
 ---
 
 ```markdown
 # 🧠 TurtleBot3 ROS2 RNN Project
 
-This project demonstrates how to simulate a TurtleBot3 in ROS2 Humble using Gazebo, enable autonomous LiDAR-based navigation, record its trajectory data, and prepare for RNN-based trajectory prediction.
+This project demonstrates how to simulate a TurtleBot3 in ROS2 Humble using Gazebo,
+enable autonomous LiDAR-based navigation, record its trajectory data, and prepare for
+ RNN-based trajectory prediction.
 
 ---
 
